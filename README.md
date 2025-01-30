@@ -13,4 +13,11 @@
 - The purpose of ths project is to see and understand the flow of how raw data is taken and presented into a dashboard that can then be used to make futture business decisions.
 
 - Lessons learned and future plans:
-      - 
+      - Finding and giving the right grants and accesses so that these programs can all work together seamlessly; took longer than expected
+      - Use multiple datasets that are similar and joining them in an ELT or ETL data pipeline
+      - In future projects, work towards getting DAG query to run DBT model tasks; ETL vs. ELT
+      - Use other types of open source database tool and apps 
+
+ELT Data Pipeline Flow Chart
+![ELT Data Pipeline Flow Chart](EV-ELT-pipeline-flow-chart.png)
+
