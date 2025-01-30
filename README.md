@@ -2,7 +2,7 @@
 
 **- This is an initial project for creating a data pipeline using a publicly found dataset (https://catalog.data.gov/dataset/electric-vehicle-population-data).**
 
-**- The purpose of ths project is to see and understand the flow of how raw data is taken, extracted, loaded, transformed, and presented into a dashboard that can then be used to make futture business decisions.**
+**- The purpose of this project is to see and understand the flow of how raw data is taken, extracted, loaded, transformed, and presented into a dashboard that can then be used to make futture business decisions.**
 
 **- The project entails the flow of an ELT data pipeline doing the following:**
 - Find large dataset; in this case in the form of a csv file
